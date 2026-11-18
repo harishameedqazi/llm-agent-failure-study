@@ -1,0 +1,6 @@
+# never commit real conversations or personal data
+raw/
+data/
+results/*.jsonl
+labels/*.csv
+__pycache__/
